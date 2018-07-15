@@ -1,0 +1,644 @@
+{
+    "metadata": {
+        "thoughts": "I think my genres are bad, but maybe I can go back through and clean them"
+    },
+    "books": [
+        {
+            "title": "The Elements of Style, Fourth Edition",
+            "author": "William Strunk Jr. and E. B. White",
+            "genre": ["Grammar"],
+            "read": true,
+            "acquired": 2010,
+            "pages": 105,
+            "dimensions": {
+                "x": 4.6,
+                "z": 0.6,
+                "y": 7
+            }
+        },
+        {
+            "title": "Science and Music",
+            "author": "Sir James H. Jeans",
+            "genre": ["Science", "Math", "Music"],
+            "read": false,
+            "acquired": 2012,
+            "pages": 304,
+            "dimensions": {
+                "x": 5.5,
+                "z": 0.8,
+                "y": 8.5
+            }
+        },
+        {
+            "title": "The Ocean at the End of the Lane: A Novel",
+            "author": "Neil Gaiman",
+            "genre": ["Science Fiction"],
+            "read": false,
+            "acquired": 2015,
+            "pages": 256,
+            "dimensions": {
+                "x": 4.2,
+                "z": 0.6,
+                "y": 6.8
+            }
+        },
+        {
+            "title": "The Joy of Leaving Your Sh*t All Over the Place: The Art of Being Messy",
+            "author": "Jennifer McCartney",
+            "genre": ["Humor"],
+            "read": true,
+            "acquired": 2017,
+            "pages": 128,
+            "dimensions": {
+                "x": 5.7,
+                "z": 0.6,
+                "y": 7.8
+            }
+        },
+        {
+            "title": "Adulthood for Beginners: All the Life Secrets Nobody Bothered to Tell You",
+            "author": "Andy Boyle",
+            "genre": ["Humor"],
+            "read": false,
+            "acquired": 2017,
+            "pages": 272,
+            "dimensions": {
+                "x": 6,
+                "z": 0.7,
+                "y": 8
+            }
+        },
+        {
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "genre": ["Science Fiction"],
+            "read": false,
+            "acquired": 2017,
+            "pages": 352,
+            "dimensions": {
+                "x": 5.1,
+                "z": 0.7,
+                "y": 8
+            }
+        },
+        {
+            "title": "The Narrow Road to the Deep North",
+            "author": "Richard Flanagan",
+            "genre": ["Fiction", "War"],
+            "read": true,
+            "acquired": 2015,
+            "pages": 416,
+            "dimensions": {
+                "x": 5.2,
+                "z": 0.9,
+                "y": 8
+            }
+        },
+        {
+            "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+            "author": "Stephen R. Covey",
+            "genre": ["Self-help"],
+            "read": false,
+            "acquired": 2014,
+            "pages": 432,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1,
+                "y": 8.4
+            }
+        },
+        {
+            "title": "Outliers: The Story of Success",
+            "author": "Malcolm Gladwell",
+            "genre": ["Social Science"],
+            "read": true,
+            "acquired": 2012,
+            "pages": 336,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1,
+                "y": 8.3
+            }
+        },
+        {
+            "title": "Emotional Design: Why We Love (or Hate) Everyday Things",
+            "author": "Don Norman",
+            "genre": ["Design", "Psychology"],
+            "read": false,
+            "acquired": 2015,
+            "pages": 272,
+            "dimensions": {
+                "x": 5.4,
+                "z": 0.8,
+                "y": 8.1
+            }
+        },
+        {
+            "title": "Taxes in America: What Everyone Needs to Know",
+            "author": "Leonard E. Burman and Joel Slemrod",
+            "genre": ["Finance"],
+            "read": true,
+            "acquired": 2015,
+            "pages": 304,
+            "dimensions": {
+                "x": 5.5,
+                "z": 0.9,
+                "y": 8.2
+            }
+        },
+        {
+            "title": "The Math Behind the Music",
+            "author": "Leon Harkleroad",
+            "genre": ["Science", "Math", "Music"],
+            "read": false,
+            "acquired": 2012,
+            "pages": 158,
+            "dimensions": {
+                "x": 6,
+                "z": 0.9,
+                "y": 9
+            }
+        },
+        {
+            "title": "Wednesday Is Indigo Blue: Discovering the Brain of Synesthesia",
+            "author": "Richard E. Cytowic MD and David M. Eagleman PhD",
+            "genre": ["Neuroscience"],
+            "read": true,
+            "acquired": 2013,
+            "pages": 320,
+            "dimensions": {
+                "x": 6,
+                "z": 0.5,
+                "y": 9
+            }
+        },
+        {
+            "title": "Thinking, Fast and Slow",
+            "author": "Daniel Kahneman",
+            "genre": ["Psychology"],
+            "read": true,
+            "acquired": 2017,
+            "pages": 499,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1.4,
+                "y": 8.2
+            }
+        },
+        {
+            "title": "Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition",
+            "author": "Steve Krug",
+            "genre": ["Design"],
+            "read": true,
+            "acquired": 2012,
+            "pages": 216,
+            "dimensions": {
+                "x": 7.1,
+                "z": 0.5,
+                "y": 9
+            }
+        },
+        {
+            "title": "Duncan: Vampires In America (Volume 5)",
+            "author": "D. B. Reynolds",
+            "genre": ["Romance", "Vampires"],
+            "read": false,
+            "acquired": 2016,
+            "pages": 262,
+            "dimensions": {
+                "x": 6,
+                "z": 0.7,
+                "y": 9
+            }
+        },
+        {
+            "title": "Barbarian Days: A Surfing Life",
+            "author": "William Finnegan",
+            "genre": ["Surfing"],
+            "read": true,
+            "acquired": 2015,
+            "pages":464 ,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1,
+                "y": 8.4
+            }
+        },
+        {
+            "title": "How Everything Became War and the Military Became Everything: Tales from the Pentagon",
+            "author": "Rosa Brooks",
+            "genre": ["Social Science", "War"],
+            "read": true,
+            "acquired": 2017,
+            "pages": 448,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1.2,
+                "y": 8.4
+            }
+        },
+        {
+            "title": "Contemporary House Design",
+            "author": "Daab Books",
+            "genre": ["Design", "Architecture"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 383,
+            "dimensions": {
+                "x": 9.1,
+                "z": 1.4,
+                "y": 9.2
+            }
+        },
+        {
+            "title": "Speech and Language Processing, 2nd Edition",
+            "author": "Daniel Jurafsky and James H. Martin",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 1032,
+            "dimensions": {
+                "x": 7.4,
+                "z": 1.6,
+                "y": 9.6
+            }
+        },
+        {
+            "title": "Seeing: The Computational Approach to Biological Vision",
+            "author": "John P. Frisby and James V. Stone",
+            "genre": ["Computer Science", "Neuroscience"],
+            "read": true,
+            "acquired": 2015,
+            "pages": 575,
+            "dimensions": {
+                "x": 8,
+                "z": 0.9,
+                "y": 10
+            }
+        },
+        {
+            "title": "Design: The Invention of Desire",
+            "author": "Jessica Helfand",
+            "genre": ["Design"],
+            "read": true,
+            "acquired": 2016,
+            "pages": 228,
+            "dimensions": {
+                "x": 7,
+                "z": 1.2,
+                "y": 9.8
+            }
+        },
+        {
+            "title": "The World Atlas of Coffee: From Beans to Brewing -- Coffees Explored, Explained and Enjoyed",
+            "author": "James Hoffmann",
+            "genre": [""],
+            "read": true,
+            "acquired": 2014,
+            "pages": 256,
+            "dimensions": {
+                "x": 7.8,
+                "z": 0.9,
+                "y": 10
+            }
+        },
+        {
+            "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+            "author": "Robert C. Martin",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 464,
+            "dimensions": {
+                "x": 7,
+                "z": 1.1,
+                "y": 9
+            }
+        },
+        {
+            "title": "Quantum Computing for Computer Scientists",
+            "author": "Noson S. Yanofsky and Mirco A. Mannucci",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 402,
+            "dimensions": {
+                "x": 7,
+                "z": 1.1,
+                "y": 10
+            }
+        },
+        {
+            "title": "The Art of Computer Programming, Volume 1: Fundamental Algorithms, 3rd Edition",
+            "author": "Donald E. Knuth",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 652,
+            "dimensions": { 
+                "x": 6.7,
+                "z": 1.3,
+                "y": 9.5
+            }
+        },
+        {
+            "title": "The Art of Computer Programming, Volume 2: Seminumerical Algorithms, 3rd Edition",
+            "author": "Donald E. Knuth",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 764,
+            "dimensions": { 
+                "x": 6.7,
+                "z": 1.5,
+                "y": 9.5
+            }
+        },
+        {
+            "title": "The Art of Computer Programming, Volume 3: Sorting and Searching, 3rd Edition",
+            "author": "Donald E. Knuth",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 782,
+            "dimensions": { 
+                "x": 6.7,
+                "z": 1.5,
+                "y": 9.5
+            }
+        },
+        {
+            "title": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, 3rd Edition",
+            "author": "Donald E. Knuth",
+            "genre": ["Computer Science"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 883,
+            "dimensions": { 
+                "x": 6.7,
+                "z": 1.7,
+                "y": 9.5
+            }
+        },
+        {
+            "title": "Drawing Ideas: A Hand-Drawn Approach for Better Design",
+            "author": "Mark Baskinger and William Bardel",
+            "genre": ["Design"],
+            "read": false,
+            "acquired": 2014,
+            "pages": 304,
+            "dimensions": {
+                "x": 8.5,
+                "z": 1.2,
+                "y": 10.4
+            }
+        },
+        {
+            "title": "Kiss in the Dark: 101 Cocktails for Every Occasion",
+            "author": "Rachel Federman",
+            "genre": ["Cocktails"],
+            "read": true,
+            "acquired": 2016,
+            "pages": 96,
+            "dimensions": {
+                "x": 4.1,
+                "z": 0.5,
+                "y": 5.7
+            }
+        },
+        {
+            "title": "Getting to Yes with Yourself: How to Get What You Truly Want",
+            "author": "William Ury",
+            "genre": ["Negotiation"],
+            "read": false,
+            "acquired": 2015,
+            "pages": 208,
+            "dimensions": {
+                "x": 5.3,
+                "z": 0.5,
+                "y": 8
+            }
+        },
+        {
+            "title": "The Design of Everyday Things: Revised and Expanded Edition",
+            "author": "Don Norman",
+            "genre": ["Design", "Psychology"],
+            "read": true,
+            "acquired": 2015,
+            "pages": 368,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1,
+                "y": 8.2
+            }
+        },
+        {
+            "title": "Consider the Lobster and Other Essays",
+            "author": "David Foster Wallace",
+            "genre": ["American Literature"],
+            "read": true,
+            "acquired": 2012,
+            "pages": 343,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1,
+                "y": 8.1
+            }
+        },
+        {
+            "title": "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)",
+            "author": "Benjamin Graham and Jason Zweig",
+            "genre": ["Finance"],
+            "read": false,
+            "acquired": 2017,
+            "pages": 640,
+            "dimensions": {
+                "x": 5.3,
+                "z": 1.6,
+                "y": 8
+            }
+        },
+        {
+            "title": "Give and Take: Why Helping Others Drives Our Success",
+            "author": "Adam Grant",
+            "genre": ["Social Science"],
+            "read": true,
+            "acquired": 2016,
+            "pages": 320,
+            "dimensions": {
+                "x": 5.5,
+                "z": 0.7,
+                "y": 8.4
+            }
+        },
+        {
+            "title": "Enchanted Objects: Design, Human Desire, and the Internet of Things",
+            "author": "David Rose",
+            "genre": ["Design"],
+            "read": true,
+            "acquired": 2014,
+            "pages": 320,
+            "dimensions": {
+                "x": 6,
+                "z": 1.2,
+                "y": 9
+            }
+        },
+        {
+            "title": "The Emerald Mile: The Epic Story of the Fastest Ride in History Through the Heart of the Grand Canyon",
+            "author": "Kevin Fedarko",
+            "genre": ["Rafting"],
+            "read": true,
+            "acquired": 2016,
+            "pages": 448,
+            "dimensions": {
+                "x": 5.5,
+                "z": 1.2,
+                "y": 8.4
+            }
+        },
+        {
+            "title": "The Artful Wooden Spoon: How to Make Exquisite Keepsakes for the Kitchen",
+            "author": "Joshua Vogel and Seth Smoot",
+            "genre": ["Design"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 176,
+            "dimensions": {
+                "x": 7.8,
+                "z": 0.7,
+                "y": 10.5
+            }
+        },
+        {
+            "title": "Originals: How Non-Conformists Move the World",
+            "author": "Adam Grant and Sheryl Sandberg",
+            "genre": ["Social Science"],
+            "read": true,
+            "acquired": 2018,
+            "pages": 336,
+            "dimensions": {
+                "x": 5.4,
+                "z": 0.7,
+                "y": 8.3
+            }
+        },
+        {
+            "title": "Security Analysis: Sixth Edition",
+            "author": "Benjamin Graham and David Dodd",
+            "genre": ["Finance"],
+            "read": false,
+            "acquired": 2017,
+            "pages": 700,
+            "dimensions": {
+                "x": 6.6,
+                "z": 2.3,
+                "y": 9.4
+            }
+        },
+        {
+            "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+            "author": "Douglas R. Hofstadter",
+            "genre": ["Music", "Computer Science", "Math"],
+            "read": false,
+            "acquired": 2010,
+            "pages": 824,
+            "dimensions": {
+                "x": 6.5,
+                "z": 1.8,
+                "y": 9.2
+            }
+        },
+        {
+            "title": "The Best of the Rejection Collection: 293 Cartoons That Were Too Dumb, Too Dark, or Too Naughty for The New Yorker",
+            "author": "Matthew Diffee",
+            "genre": ["Humor"],
+            "read": true,
+            "acquired": 2016,
+            "pages": 352,
+            "dimensions": {
+                "x": 7.2,
+                "z": 0.8,
+                "y": 9
+            }
+        },
+        {
+            "title": "Processing: A Programming Handbook for Visual Designers and Artists",
+            "author": "Casey Reas and Ben Fry",
+            "genre": ["Design", "Computer Science"],
+            "read": false,
+            "acquired": 2017,
+            "pages": 672,
+            "dimensions": {
+                "x": 7,
+                "z": 1.1,
+                "y": 9
+            }
+        },
+        {
+            "title": "Generative Design: Visualize, Program, and Create with Processing",
+            "author": "Hartmut Bohnacker and Benedikt Gross",
+            "genre": ["Design", "Computer Science"],
+            "read": false,
+            "acquired": 2015,
+            "pages": 472,
+            "dimensions": {
+                "x": 8.5,
+                "z": 1.8,
+                "y": 11.5
+            }
+        },
+        {
+            "title": "Momofuku Milk Bar",
+            "author": "Christina Tosi and David Chang",
+            "genre": ["Cooking"],
+            "read": true,
+            "acquired": 2018,
+            "pages": 256,
+            "dimensions": {
+                "x": 8.3,
+                "z": 0.9,
+                "y": 10.3
+            }
+        },
+        {
+            "title": "How Things Work In Your Home and What to Do When They Don't",
+            "author": "John Paul Porter",
+            "genre": ["Home Improvement"],
+            "read": false,
+            "acquired": 2018,
+            "pages": 368,
+            "dimensions": {
+                "x": 7.9,
+                "z": 1.6,
+                "y": 10.1
+            }
+        },
+        {
+            "title": "How to Cook Everything The Basics: All You Need to Make Great Food",
+            "author": "Mark Bittman",
+            "genre": ["Cooking"],
+            "read": false,
+            "acquired": 2015,
+            "pages": 496,
+            "dimensions": {
+                "x": 7.5,
+                "z": 1.4,
+                "y": 9.2
+            }
+        },
+        {
+            "title": "The Onion Book of Known Knowledge: A Definitive Encyclopaedia Of Existing Information",
+            "author": "The Onion",
+            "genre": ["Humor"],
+            "read": true,
+            "acquired": 2013,
+            "pages": 256,
+            "dimensions": {
+                "x": 9,
+                "z": 1,
+                "y": 11.2
+            }
+        }
+    ]
+}
